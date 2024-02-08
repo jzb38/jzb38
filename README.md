@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jzb38
-- 👀 I’m interested in economic benefits
+- 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning DDA11
 - 💞️ I’m looking to collaborate on projects with my classmates
 - 📫 How to reach me by email
